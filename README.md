@@ -136,7 +136,7 @@ Step 1 — Clone the Repository
 
 Open your terminal or command prompt and run:
 
-git clone https://github.com/YOUR_USERNAME/airbnb-data-analytics.git
+git clone (https://github.com/pritampp2004/Attrition-Analysis_DA)
 
 Move into the project directory:
 
