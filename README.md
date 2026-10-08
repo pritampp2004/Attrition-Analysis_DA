@@ -8,14 +8,6 @@ Attrition Analytics dataset is a CSV type data source. It represents an organiza
 This project performs Exploratory Data Analysis (EDA) and Business Analysis on Airbnb listing data using Python and Jupyter Notebook.
 
 
-🏠 Property and room types
-💰 Pricing and price distribution
-📍 Location and geographical trends
-⭐ Reviews and customer activity
-📊 Availability of listings
-👥 Host activity
-📈 Demand and market patterns
-🔎 Factors that may influence Airbnb listing performance
 
 The project demonstrates how Python-based data analytics can be used to transform raw Airbnb data into meaningful business insights and visualizations.
 
